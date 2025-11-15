@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+.Odd{
+    background-color: #FF8BA0;
+    font-family:Verdana, "DejaVu sans", sans-serif;
+    
+
+}
+
+
+
+#Test {
+    color:#00008B;
+    font-size: 36px;
+}
+
+
+
+.Font-size{
+    font-size: 24px;
+}
+
+
+#AnotherTest{
+    background-color: #7FFF00;
+    font-size: 24px;
+    font-weight: bold;
+}
