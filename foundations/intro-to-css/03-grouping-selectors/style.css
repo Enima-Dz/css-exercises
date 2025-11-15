@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.Black .Yellow{
+    font-size: 28PX;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.Black{
+    background-color: black;
+    color: white;
+}
+
+
+.Yellow{
+    background-color: yellow;
+    
+}
